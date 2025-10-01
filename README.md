@@ -71,26 +71,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🌍 Travel Budget App
-A comprehensive travel budget planning tool that helps travelers track expenses, categorize spending, and stay within financial limits. Features AI-powered budget suggestions and real-time expense tracking.
-
-**Tech Stack:** React.js, Gemini AI, Firebase, Tailwind CSS
-
-[![Travel Budget](https://github-readme-stats.vercel.app/api/pin/?username=Tarannum10&repo=Travel-budget&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Tarannum10/Travel-budget)
-
----
-
-### 👥 TeamSpace Collaborate
-A web-based collaboration platform designed to enhance teamwork and productivity. Features include document sharing, real-time editing, and effective team communication - replacing traditional office settings with a dynamic digital workspace.
-
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
-
-[![TeamSpace](https://github-readme-stats.vercel.app/api/pin/?username=Tarannum10&repo=TeamSpaceCollaborate&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Tarannum10/TeamSpaceCollaborate)
-
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarannum10&theme=high-contrast&hide_border=true&bg_color=0D1117)
@@ -100,7 +80,7 @@ A web-based collaboration platform designed to enhance teamwork and productivity
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarannum10samad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almas-tarannum)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/almas-tarannum](https://www.linkedin.com/in/almas-tarannum-2090a3370/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarannum10)
 
 ---
